@@ -1,0 +1,16 @@
+{
+    "name": "fernandocalmet/paypal-payment-gateway-php",
+    "description": "PayPal Payment Gateway Integration in PHP using PayPal REST API",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Fernando Calmet",
+            "email": "fercalmet@gmail.com",
+            "homepage": "https://github.com/fernandocalmet"
+        }
+    ],
+    "require": {
+        "league/omnipay": "^3.0",
+        "omnipay/paypal": "^3.0"
+    }
+}
